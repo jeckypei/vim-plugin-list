@@ -19,8 +19,14 @@ http://cscope.sourceforge.net/cscope_vim_tutorial.html
 5.  $HOME/.vimrc
 
 set tags=./tags,tags;
+
 let g:NERDTreeWinPos = "right"
+
 autocmd vimenter * NERDTree
+
 autocmd vimenter * Tlist 
+
 autocmd vimenter * wincmd w 
+
 autocmd vimenter * wincmd w 
+
