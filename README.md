@@ -12,13 +12,13 @@ https://github.com/vim-scripts/taglist.vim
 https://hub.fastgit.org/ervandew/supertab
 
 3. NERDTREE
-4. 
+
 dir/file list
 
 https://github.com/preservim/nerdtree
 
 4. cscope
-5. 
+
 http://cscope.sourceforge.net/cscope_vim_tutorial.html
 
 
